@@ -1,9 +1,10 @@
 import React from "react";
-import layout from "./style";
+import Navbar from "./Components/Navbar";
+
 export default function App() {
   return (
     <div>
-      <h1 className={layout.heading1}>Hello </h1>
+      <Navbar />
     </div>
   );
 }

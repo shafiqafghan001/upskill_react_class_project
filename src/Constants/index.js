@@ -1,5 +1,5 @@
 import {
-  people1,
+  // people1,
   people02,
   people03,
   facebook,
@@ -54,7 +54,7 @@ export const feedback = [
       "upskill Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver",
     name: "Herman jenes",
     title: "Founder& Leader",
-    img: people1,
+    // img: people1,
   },
 
   {
