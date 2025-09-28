@@ -7,6 +7,7 @@ export default function Navbar() {
   const [active, setActive] = useState("Home");
 
   return (
+    // Desktop
     <nav className="w-full py-6 flex justify-between items-center">
       <img src={logo} alt="" className="w-[124px] h-[32px]" />
       <ul className="list-none sm:flex hidden justify-end items-center flex-1 bg-red-500">
