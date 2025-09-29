@@ -16,7 +16,7 @@ import {
   logo,
 } from "../assets/index";
 
-export const NavLinks = [
+export const navLinks = [
   { id: "home", title: "Home" },
   { id: "features", title: "Features" },
   { id: "product", title: "Product" },
